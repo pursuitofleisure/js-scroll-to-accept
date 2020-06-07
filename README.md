@@ -1,7 +1,7 @@
 # js-scroll-to-accept
  A scrolling terms and condition window that shows "accept" only once the user has scrolled to the bottom inspired by Wes Bos's Beginner JavaScript course.
 
-[JS-A-Sketch Demo](https://www.pursuitofleisure.com/demos/js-scroll-to-accept/ "Scroll to Accept")
+[JS-Scroll-to-Accept Demo](https://www.pursuitofleisure.com/demos/js-scroll-to-accept/ "Scroll to Accept")
 
 ## Built With
 
